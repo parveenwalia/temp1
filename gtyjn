@@ -1,0 +1,18 @@
+[33mcommit fb3cbec67287f6e4a4161a2fb82ba1e3e990f805[m
+Author: Parveen Walia <parveen_walia@epam.com>
+Date:   Thu Mar 2 17:12:13 2017 +0530
+
+    adding 2 files for deletion
+
+ del.txt => del1.txt | 0
+ del2.txt            | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit edd9ac11a0fb687da24f055cfd8b73fc5a64fd0a[m
+Author: Parveen Walia <parveen_walia@epam.com>
+Date:   Thu Mar 2 17:09:16 2017 +0530
+
+    adding file to test deletion
+
+ del.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
